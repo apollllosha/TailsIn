@@ -4,11 +4,8 @@
 
 ## Ссылка на сайт
 
-[https://ваш-логин.github.io/название-репозитория/]
+[https://apollllosha.github.io/TailsIn/]
 
-## Скриншот
-
-![Главная страница](images/screenshot.png)
 
 ## Автор
 
